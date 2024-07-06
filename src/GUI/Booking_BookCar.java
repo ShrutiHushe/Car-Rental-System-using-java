@@ -11,10 +11,7 @@ import javax.swing.*;
 import org.netbeans.lib.awtextra.AbsoluteConstraints;
 import org.netbeans.lib.awtextra.AbsoluteLayout;
 
-/**
- *
- * @author @AbdullahShahid01
- */
+
 public class Booking_BookCar extends JFrame {
 
     JButton Book_Button, Cancel_Button;
